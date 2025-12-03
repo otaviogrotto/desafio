@@ -3,7 +3,7 @@
 > **Resumo:** Documentação dos conhecimentos adquiridos ao longo da minha jornada na turma 7 da Alpha Edtech.
 
 
-## :globe_with_meridians: Redes
+## 🌐 Redes
 
 Topologia de redes;
 
@@ -59,7 +59,7 @@ Blockchains;
 
 Content Delivery Networks (CDNs).
 
-## :cat: GIT
+## 🐱 GIT
 Branchs;
 
 Historico de alterações;
@@ -76,7 +76,7 @@ GitHub;
 
 Direção da PR no GitHub.
 
-## :loudspeaker: Soft Skills
+## 📢 Soft Skills
 Comunicação assertiva;
 
 Elementos da comunicação;
